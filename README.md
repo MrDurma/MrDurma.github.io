@@ -1,1 +1,1 @@
-# https://github.com/MrDurma/anes-cv.github.io
+# https://mrdurma.github.io/anes-cv.github.io
